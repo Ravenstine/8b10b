@@ -1,0 +1,28 @@
+{
+  "name": "8b10b",
+  "version": "1.0.0",
+  "description": "An ECMAScript implementation of the 8b10b line codec.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenstine/8b10b.git"
+  },
+  "keywords": [
+    "binary",
+    "8b10b"
+  ],
+  "author": "Ten Bitcomb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravenstine/8b10b/issues"
+  },
+  "homepage": "https://github.com/ravenstine/8b10b#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
+
