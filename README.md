@@ -3,6 +3,8 @@
 
 An ECMAScript implementation of the [8b10b](https://en.wikipedia.org/wiki/8b/10b_encoding) line codec.
 
+Use it to convert bytes to 10-bit symbols and vise-versa.  It only converts to and from data symbols; control symbols should be intercepted and handled by your application.
+
 ## Installation
 
 ```sh
