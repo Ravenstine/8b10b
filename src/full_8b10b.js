@@ -1,4 +1,4 @@
-[
+export default [
   {
     "CODE": "D.0.0",
     "8B_BYTE": "00",
@@ -2559,4 +2559,4 @@
     "RD_M_HEX": "2B1",
     "RD_P_HEX": "14E"
   }
-]
+];
